@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/herzen-im-gleichklang/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Herzen im Gleichklang](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/herzen-im-gleichklang/) |
+| **Get License** | [Request Licensing for Herzen im Gleichklang](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/herzen-im-gleichklang/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die Skyline leuchtet lila, der Bass kickt in den Seat
+> Dein Blick trifft mich im Dunkeln, du spürst den Heartbeat
+> Wir tauchen in die Nacht ein, vergessen all den Rest
+> Herzen im Gleichklang, Baby, ich halt dich jetzt fest
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
