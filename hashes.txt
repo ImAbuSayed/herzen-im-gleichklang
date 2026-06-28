@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Herzen im Gleichklang
+
+This log tracks the cryptographic history and versioning for the song **Herzen im Gleichklang** (herzen-im-gleichklang).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-29T00:39:26.935993 | `v1` | `86ed52b8baf0c990ebd382ad9c7015e2095cac32d6caa7eafc643f7f17601588` | `8984d907912abc6810148c54d9e21598ec20628c45a7a5811a75aedbecfd34b5` | `2026-06-29_herzen-im-gleichklang-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

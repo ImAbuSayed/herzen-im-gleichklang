@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/herzen-im-gleichklang/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Herzen im Gleichklang](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/herzen-im-gleichklang/) |
+| **Get License** | [Commercial Licensing for Herzen im Gleichklang](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/herzen-im-gleichklang/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `86ed52b8baf0c990ebd382ad9c7015e2095cac32d6caa7eafc643f7f17601588` |
 | **Timestamp** | June 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
